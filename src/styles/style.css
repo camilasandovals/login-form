@@ -1,0 +1,14 @@
+body {
+    background-color: wheat;
+    width: 80%;
+    display:flex;
+    justify-content: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100px;
+}
+
